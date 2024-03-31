@@ -1,4 +1,4 @@
-A tool to help map out quadratic functions onto music!
+A tool to help translate quadratic and other polynomial functions into music!
 
 Heres the vision: I was trying to see what would happen if I mapped out Polynomial Functions onto a Piano/Keybaord.
 
