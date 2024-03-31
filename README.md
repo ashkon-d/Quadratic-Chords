@@ -5,4 +5,4 @@ Heres the vision: I was trying to see what would happen if I mapped out Polynomi
 I Made this Python code to help do the math without the painful process of imagining a absurdley long keyboard and 
 counting the correct intervals between notes
 
-More detail coming soon!
+More detail and user friendly interaction coming soon!
